@@ -1,0 +1,9 @@
+Building Underline
+
+See doc/readme-qt.rst for instructions on building Underline-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Underline.
+
+See doc/build-*.txt for instructions on building underlined,
+the intended-for-services, no-graphical-interface, reference
+implementation of Underline.
