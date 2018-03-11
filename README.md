@@ -9,17 +9,10 @@ Copyright (c) 2011-2014 Underline Developers
 What is Underline?
 ----------------
 
-Underline is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
-
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+Underline is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world. Underline is an open source, global payment network that is fully decentralized without any central authorities. Mathematics secures the network and empowers individuals to control their own finances. Underline features faster transaction confirmation times and improved storage efficiency than the leading math-based currency. With substantial industry support, trade volume and liquidity, Underline is a proven medium of commerce complementary to Litecoin.
 
 For more information, as well as an immediately useable, binary version of
-the Underline client sofware, see http://www.underline.org.
+the Underline client sofware, see ttp://www.moba-experiment.com.
 
 License
 -------
